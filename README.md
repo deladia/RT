@@ -1,3 +1,0 @@
-# RT
-
-### RT in progress!
